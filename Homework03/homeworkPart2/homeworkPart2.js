@@ -1,8 +1,0 @@
-function result(types){
-    console.log("Type of function");
-    console.log(typeof(types))
-}
-result(); //undefined
-result(2); //number
-result("Aleksandar"); //string
-result(true); //boolean
